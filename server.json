@@ -1,18 +1,16 @@
 {
-"UpdateVersion" : "1.1",
-"UpdateMessage" : "Fix error 3
+"UpdateVersion" : "1.3",
+"UpdateMessage" : "Uninstall old version and Install in PlayStore
 ",
-"UpdateUrl" : "https://github.com/cyrust21/antenaviewpro/raw/main/app/FFTools_Release%201.1.apk",
+"UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 
 "InfoVersion" : "false",
 "InfoMessage" : "New UI and Fix Error",
 "InfoButtonOk" : "Fix",
-"InfoUrl" : "https://semawur.com/bDDIo",
+"InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 
 "Antena" : "assetindexer.8~2FDinOIgg9lz07Rd~2BaRxwEkU4yw~3D",
 "LinkOn" : "false",
-"LinkShare" : "https://semawur.com/bDDIo",
-"LayoutMessage" : "'WELCOME'
-  
-  'DONT USE MAIN ACCOUNT RISK BANNED'"
+"LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
+"LayoutMessage" : "'WELCOME','DONT USE MAIN ACCOUNT RISK BANNED'"
 }
