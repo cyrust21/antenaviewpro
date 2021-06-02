@@ -1,12 +1,12 @@
 {
-"UpdateVersion" : "1.3",
+"UpdateVersion" : "1.5",
 "UpdateMessage" : "New update Realese on PlayStore
 ",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 
-"InfoVersion" : "false",
-"InfoMessage" : "Please rate me 5 on PlayStore",
-"InfoButtonOk" : "Rate",
+"InfoVersion" : "true",
+"InfoMessage" : "Maintenance please wait update to version 1.5",
+"InfoButtonOk" : "wait",
 "InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "Image" : "https://a.top4top.io/p_1979o7qul0.jpg",
 "Antena" : "assetindexer.8~2FDinOIgg9lz07Rd~2BaRxwEkU4yw~3D",
