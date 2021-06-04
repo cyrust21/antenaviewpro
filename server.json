@@ -6,12 +6,10 @@
 
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "- Add antena custom every 1 week update
-- antena Supply
-- antena Event items
-- antena Items level 3
-- Added safe mode
-- Fix Bugs and more",
+"InfoMessage" : "MAINTENANCE
+Fix bug 🔧
+- Error no player
+- Error stuck loading",
 "InfoButtonOk" : "oke",
 "InfoUrl" : "https://youtu.be/PzwRN16b4ec",
 "Image" : "https://a.top4top.io/p_197959dmf0.jpg",
