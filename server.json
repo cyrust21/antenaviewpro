@@ -14,12 +14,12 @@ MAINTENANCE
 Fix bug 🔧
 - Error no player
 - Error stuck loading",
-"InfoButtonOk" : "ok",
+"InfoButtonOk" : "tutorial turn off",
 "InfoUrl" : "https://youtu.be/NpOf2S_j7rE",
 "Image" : "https://a.top4top.io/p_1982q1hnw0.jpg",
 "Antena" : "assetindexer.8~2FDinOIgg9lz07Rd~2BaRxwEkU4yw~3D",
 "Config" : "resconf.iFGM~2FWuuBYn2AmOBbc0NSOOS~2FbA~3D",
-"LinkOn" : "false",
+"LinkOn" : "true",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "'ANTENA'
 'Risk Banned'"
