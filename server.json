@@ -1,5 +1,5 @@
 {
-"UpdateVersion" : "1.4",
+"UpdateVersion" : "1.6",
 "UpdateMessage" : "New update Realese on PlayStore
 ",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
@@ -14,12 +14,12 @@ MAINTENANCE
 Fix bug 🔧
 - Error no player
 - Error stuck loading",
-"InfoButtonOk" : "join group",
-"InfoUrl" : "https://t.me/joinchat/HNl1TDTMWWBkMGQ1",
+"InfoButtonOk" : "ok",
+"InfoUrl" : "",
 "Image" : "",
 "Antena" : "assetindexer.8~2FDinOIgg9lz07Rd~2BaRxwEkU4yw~3D",
 "Config" : "resconf.iFGM~2FWuuBYn2AmOBbc0NSOOS~2FbA~3D",
-"LinkOn" : "true",
+"LinkOn" : "false",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "'ANTENA'
 'Use It With A Guest Account, It Is Not Recommended To Use The Main Account'"
