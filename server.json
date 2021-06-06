@@ -6,21 +6,16 @@
 
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "RATE ME 5 STAR ⭐⭐⭐⭐⭐
-I will update it
-
-*Please don't using Main Account
-
-MAINTENANCE
+"InfoMessage" : "UPDATE 1.6
 Fix bug 🔧
 - Error no player
 - Error stuck loading",
 "InfoButtonOk" : "ok",
-"InfoUrl" : "",
+"InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "Image" : "",
 "Antena" : "assetindexer.8~2FDinOIgg9lz07Rd~2BaRxwEkU4yw~3D",
 "Config" : "resconf.iFGM~2FWuuBYn2AmOBbc0NSOOS~2FbA~3D",
-"LinkOn" : "false",
+"LinkOn" : "true",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "'ANTENA'
 'Risk Banned'"
