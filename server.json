@@ -6,7 +6,11 @@
 
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "uninstall and install this below ",
+"InfoMessage" : "Fix bug 🔧
+- Improve Crosshair
+- Added reset button for Fix All
+- Error no player
+- Error stuck loading ",
 "InfoButtonOk" : "update",
 "InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "Image" : "",
