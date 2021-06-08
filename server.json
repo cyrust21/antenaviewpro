@@ -1,22 +1,18 @@
 {
-"UpdateVersion" : "1.7",
+"UpdateVersion" : "1.71",
 "UpdateMessage" : "New update Realese on PlayStore
 ",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "Fix bug 🔧
-- Improve Crosshair
-- Added reset button for Fix All
-- Error no player
-- Error stuck loading ",
-"InfoButtonOk" : "update",
+"InfoMessage" : "MAINTENANCE",
+"InfoButtonOk" : "OKE",
 "InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "Image" : "",
 "Antena" : "assetindexer.8~2FDinOIgg9lz07Rd~2BaRxwEkU4yw~3D",
 "Config" : "resconf.iFGM~2FWuuBYn2AmOBbc0NSOOS~2FbA~3D",
-"LinkOn" : "true",
+"LinkOn" : "false",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "'ANTENA'
 'Risk Banned'"
