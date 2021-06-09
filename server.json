@@ -1,13 +1,15 @@
 {
-"UpdateVersion" : "1.7",
+"UpdateVersion" : "1.71",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "FF Fix lag 1.62.3 Cara Atasi Lag Free Fire RAM 1-4",
+"InfoMessage" : "Update Full Supply Available to use
+- No Antena with Supply ✔
+- Custom Antena with Supply ✔",
 "InfoButtonOk" : "OKE",
 "InfoUrl" : "",
-"Image" : "",
+"Image" : "https://d.top4top.io/p_1985kkshq0.jpg",
 "Antena" : "assetindexer.PSrlap~2BbZcfMCxyw~2Bt7dClukzYs~3D",
 "Config" : "resconf.iFGM~2FWuuBYn2AmOBbc0NSOOS~2FbA~3D",
 "LinkOn" : "false",
