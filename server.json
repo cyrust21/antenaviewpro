@@ -1,17 +1,16 @@
 {
-"UpdateVersion" : "1.7",
+"UpdateVersion" : "1.9",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "Change Log [1.8]
+"InfoMessage" : "Change Log [1.9]
 - Fix Bug after Update
 - Android 11&12 (test)
 - Improve Crosshair
 - Added Reset View Back to Normal
 - Fix Error no player
 - Fix Error stuck loading 
-
 Update Full Supply Available to use
 - View Full Supply Only✔
 - View Laser Full Supply with Antena ✔",
