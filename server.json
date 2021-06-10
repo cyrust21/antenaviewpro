@@ -4,8 +4,7 @@
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "Change Log [1.9]
-- On Process 10% update
+"InfoMessage" : "Change Log [2.0]
 - Fix Bug after Update
 - Android 11&12 (test)
 - Improve Crosshair
@@ -15,12 +14,12 @@
 Update Full Supply Available to use
 - View Full Supply Only✔
 - View Laser Full Supply with Antena ✔",
-"InfoButtonOk" : "OKE",
-"InfoUrl" : "",
+"InfoButtonOk" : "Update",
+"InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "Image" : "",
 "Antena" : "assetindexer.PSrlap~2BbZcfMCxyw~2Bt7dClukzYs~3D",
 "Config" : "resconf.iFGM~2FWuuBYn2AmOBbc0NSOOS~2FbA~3D",
-"LinkOn" : "false",
+"LinkOn" : "true",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "'ANTENA'
 'Risk Banned'"
