@@ -1,10 +1,11 @@
 {
-"UpdateVersion" : "1.9",
+"UpdateVersion" : "2.0",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "true",
 "Visible" : "true",
 "InfoMessage" : "Change Log [1.9]
+- On Process 10% update
 - Fix Bug after Update
 - Android 11&12 (test)
 - Improve Crosshair
