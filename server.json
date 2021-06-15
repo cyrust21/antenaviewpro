@@ -4,22 +4,16 @@
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "Change Log [2.0]
-- Fix Bug after Update
-- Android 11&12 (test)
-- Improve Crosshair
-- Added Reset View Back to Normal
-- Fix Error no player
-- Fix Error stuck loading 
-Update Full Supply Available to use
-- View Full Supply Only✔
-- View Laser Full Supply with Antena ✔",
-"InfoButtonOk" : "Update",
+"InfoMessage" : "Update 1.62.4
+- Fix View Full Supply Only
+- Fix View Full Supply with Antena Custom
+- Fix View ",
+"InfoButtonOk" : "Ok",
 "InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "Image" : "",
 "Antena" : "assetindexer.PSrlap~2BbZcfMCxyw~2Bt7dClukzYs~3D",
 "Config" : "resconf.iFGM~2FWuuBYn2AmOBbc0NSOOS~2FbA~3D",
-"LinkOn" : "true",
+"LinkOn" : "false",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "'ANTENA'
 'Risk Banned'"
