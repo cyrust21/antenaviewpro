@@ -4,14 +4,16 @@
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "Fix lag use
-• FF SENSI BOOSTER",
-"InfoButtonOk" : "DWONLOAD",
+"InfoMessage" : "Support FF 1.62.5
+-Full Supply only
+-Full Supply with Antena
+-Reset View (Remove Antena)",
+"InfoButtonOk" : "ok",
 "InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
 "Image" : "",
 "Antena" : "assetindexer.PSrlap~2BbZcfMCxyw~2Bt7dClukzYs~3D",
 "Config" : "resconf.iFGM~2FWuuBYn2AmOBbc0NSOOS~2FbA~3D",
-"LinkOn" : "true",
+"LinkOn" : "false",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "'ANTENA'
 'Risk Banned'"
