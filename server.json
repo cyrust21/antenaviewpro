@@ -1,16 +1,23 @@
 {
-"UpdateVersion" : "2.0",
+"UpdateVersion" : "210",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "please update in version 2.0",
+"InfoMessage" : "Config FF 1.62.5
+LOG UPDATE
+-Full Attachment level 3 laser red🔴
+-Coin in game laser supply blue🔵
+-Event 'Might of Mythos' in game laser supply yellow🟡
+-Shield laser purple🟣
+-Armory laser green🟢
+-Glowall 🚫none",
 "InfoButtonOk" : "ok",
 "InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
 "Image" : "",
 "Antena" : "assetindexer.PSrlap~2BbZcfMCxyw~2Bt7dClukzYs~3D",
 "Config" : "",
-"LinkOn" : "true",
+"LinkOn" : "false",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "'ANTENA'
 'Risk Banned'"
