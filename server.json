@@ -1,19 +1,16 @@
 {
-"UpdateVersion" : "210",
+"UpdateVersion" : "2.0",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "Support FF 1.62.5
--Full Supply only
--Full Supply with Antena
--Reset View (Remove Antena)",
+"InfoMessage" : "please update in version 2.0",
 "InfoButtonOk" : "ok",
 "InfoUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
 "Image" : "",
 "Antena" : "assetindexer.PSrlap~2BbZcfMCxyw~2Bt7dClukzYs~3D",
-"Config" : "resconf.iFGM~2FWuuBYn2AmOBbc0NSOOS~2FbA~3D",
-"LinkOn" : "false",
+"Config" : "",
+"LinkOn" : "true",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "'ANTENA'
 'Risk Banned'"
