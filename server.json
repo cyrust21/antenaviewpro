@@ -1,5 +1,5 @@
 {
-"UpdateVersion" : "2.1",
+"UpdateVersion" : "2.0",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "false",
@@ -11,7 +11,7 @@ New App FF Tools Pro 2.1",
 "Image" : "",
 "Antena" : "assetindexer.PSrlap~2BbZcfMCxyw~2Bt7dClukzYs~3D",
 "Config" : "",
-"LinkOn" : "true",
+"LinkOn" : "false",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "'ANTENA'
 'Risk Banned'"
