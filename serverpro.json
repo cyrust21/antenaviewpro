@@ -2,7 +2,7 @@
 "UpdateVersion" : "2.2",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-"InfoVersion" : "true",
+"InfoVersion" : "false",
 "Visible" : "true",
 "InfoMessage" : "Config FF 1.62.6",
 "InfoButtonOk" : "ok",
