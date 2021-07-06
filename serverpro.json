@@ -4,7 +4,7 @@
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "true",
 "Visible" : "true",
-"InfoMessage" : "Maintenance Server Update 1.62.8",
+"InfoMessage" : "Fix Full Supply Ready to Use 1.62.8",
 "InfoButtonOk" : "ok",
 "InfoUrl" : "https://youtu.be/xfZScaDUgCQ",
 "Image" : "",
@@ -13,5 +13,5 @@
 "LinkOn" : "false",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "Note : Please don't use Antena on Main Account ! recomend use Guest Account
-Data version 1.62.7"
+Data version 1.62.8"
 }
