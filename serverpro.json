@@ -3,16 +3,17 @@
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "InfoVersion" : "true",
-"Visible" : "true",
+"Visible" : "false",
 "InfoMessage" : "Fix Full Supply Ready to Use 1.62.8
 Not working Android 11",
 "InfoButtonOk" : "view",
-"InfoUrl" : "https://youtu.be/HvET1P8Z3Y4",
+"InfoUrl" : "",
 "Image" : "",
 "Antena" : "assetindexer.PSrlap~2BbZcfMCxyw~2Bt7dClukzYs~3D",
 "Laser" : "resconf.vALOinCaydIjwt7eyr~2BmvP70vuQ~3D",
-"LinkOn" : "true",
+"LinkOn" : "false",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-"LayoutMessage" : "Note : Please don't use Antena on Main Account ! recomend use Guest Account
+"LayoutMessage" : "Note : Android version 11 can't working
+Please don't use Antena on Main Account ! recomend use Guest Account
 Data version 1.62.8"
 }
