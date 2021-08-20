@@ -2,15 +2,15 @@
 "UpdateVersion" : "2.2",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-"InfoVersion" : "true",
+"InfoVersion" : "false",
 "Visible" : "false",
 "InfoMessage" : "1.64.6 Full Supply",
 "InfoButtonOk" : "ok",
-"InfoUrl" : "https://youtu.be/V4yyij8-yEU",
+"InfoUrl" : "",
 "Image" : "",
 "Antena" : "assetindexer.PSrlap~2BbZcfMCxyw~2Bt7dClukzYs~3D",
 "Laser" : "resconf.vALOinCaydIjwt7eyr~2BmvP70vuQ~3D",
-"LinkOn" : "true",
+"LinkOn" : "false",
 "LinkShare" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "LayoutMessage" : "Note : Android version 11 can't working
 Please don't use Antena on Main Account ! recomend use Guest Account
