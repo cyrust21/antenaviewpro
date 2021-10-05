@@ -2,7 +2,7 @@
 "UpdateVersion" : "2.3",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-"Dialog_Info" : "true",
+"Dialog_Info" : "false",
 "Dialog_Message" : "1.65.3 Full Supply ESP name",
 "Dialog_NameButton" : "View",
 "Dialog_Button" : "false",
