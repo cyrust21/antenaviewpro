@@ -1,0 +1,15 @@
+{
+"UpdateVersion" : "2.2",
+"UpdateMessage" : "New update Realese on PlayStore",
+"UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
+"InfoVersion" : "true",
+"InfoMessage" : "1.65.3 Full Supply ESP name
+Not support Android 11",
+"InfoButtonOk" : "ok",
+"InfoUrl" : "",
+"Image" : "",
+"LinkOn" : "false",
+"LayoutMessage" : "Note : Android version 11 can't working
+Please don't use Antena on Main Account ! recomend use Guest Account
+Update Support version 1.65.3"
+}
