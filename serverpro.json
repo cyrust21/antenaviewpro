@@ -1,8 +1,8 @@
 {
-"UpdateVersion" : "2.2",
-"UpdateMessage" : "New update Realese on PlayStore",
+"UpdateVersion" : "2.3",
+"UpdateMessage" : "New update Realese on PlayStore Support Android 11",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-"InfoVersion" : "true",
+"InfoVersion" : "false",
 "Visible" : "false",
 "InfoMessage" : "1.65.3 Full Supply ESP name
 Not support Android 11",
