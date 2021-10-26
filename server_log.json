@@ -5,7 +5,7 @@
 "Dialog_Info" : "true",
 "Dialog_Message" : "1.66.2 Full Supply ESP name",
 "Dialog_NameButton" : "ok",
-"Dialog_Button" : "false",
+"Dialog_Button" : "true",
 "Dialog_Url" : "https://youtu.be/k-NOrlZiZT8",
 "LayoutMessage" : "Data 1.66.2"
 }
