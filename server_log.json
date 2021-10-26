@@ -3,10 +3,9 @@
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "Dialog_Info" : "true",
-"Dialog_Message" : "1.66.0 Full Supply ESP name",
+"Dialog_Message" : "1.66.1 Full Supply ESP name",
 "Dialog_NameButton" : "ok",
 "Dialog_Button" : "false",
 "Dialog_Url" : "https://www.google.com/",
-"LayoutMessage" : "Support Android 11 version 1.66.0
-Get nickname beta"
+"LayoutMessage" : "Data 1.66.1"
 }
