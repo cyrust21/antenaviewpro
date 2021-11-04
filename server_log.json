@@ -2,7 +2,7 @@
 "UpdateVersion" : "2.3",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-"Dialog_Info" : "false",
+"Dialog_Info" : "true",
 "Dialog_Message" : "Stay Safe 1.67.0 Full Supply ESP name",
 "Dialog_NameButton" : "ok",
 "Dialog_Button" : "true",
