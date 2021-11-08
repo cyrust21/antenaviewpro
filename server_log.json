@@ -3,9 +3,12 @@
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "Dialog_Info" : "false",
-"Dialog_Message" : "Stay Safe 1.67.0 Full Supply ESP name",
+"Dialog_Message" : "Stay Safe 1.67.1 Full Supply ESP name & less hs",
 "Dialog_NameButton" : "ok",
 "Dialog_Button" : "true",
 "Dialog_Url" : "",
-"LayoutMessage" : "Data 1.67.0"
+"LayoutMessage" : "Data 1.67.1
+*new improvement
+-View Hand hs
+-View Head hs"
 }
