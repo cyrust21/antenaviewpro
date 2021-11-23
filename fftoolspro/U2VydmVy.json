@@ -1,7 +1,7 @@
 {
-"UpdateVersion" : "2.3",
-"UpdateMessage" : "New update Realese on PlayStore",
-"UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
+"Update_Version" : "2.3",
+"Update_Message" : "New update Realese on PlayStore",
+"Update_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 
 "Dialog_Info" : "false",
 "Dialog_Message" : "Config FF 1.62.6",
