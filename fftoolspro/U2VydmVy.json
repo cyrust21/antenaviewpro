@@ -3,7 +3,7 @@
 "Update_Message" : "New update Realese on PlayStore",
 "Update_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 
-"Dialog_Info" : "false",
+"Dialog_Info" : "true",
 "Dialog_Message" : "Config FF 1.62.6",
 "Dialog_Button" : "ok",
 "Dialog_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
