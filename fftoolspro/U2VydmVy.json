@@ -9,5 +9,8 @@
 "Dialog_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
 "Dialog_Action" : "true",
 "Layout_Message" : "*Notice
-Support Android 11"
+Support Android 11",
+
+"Tutorial" : "false",
+"Tutorial_Url" : "https://google.com/"
 }
