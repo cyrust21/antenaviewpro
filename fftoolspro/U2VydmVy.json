@@ -7,7 +7,7 @@
 "Dialog_Message" : "Config FF 1.67.3",
 "Dialog_Button" : "ok",
 "Dialog_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
-"Dialog_Action" : "false",
+"Dialog_Action" : "true",
 "Layout_Message" : "*Notice
 Support Android 11",
 
