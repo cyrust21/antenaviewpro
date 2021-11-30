@@ -2,11 +2,11 @@
 "UpdateVersion" : "2.3",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-"Dialog_Info" : "true",
-"Dialog_Message" : "Comingsoon update wait 1 week for release FFMAX Support",
+"Dialog_Info" : "false",
+"Dialog_Message" : "",
 "Dialog_NameButton" : "ok",
-"Dialog_Button" : "true",
-"Dialog_Url" : "https://youtu.be/EbHagxEw0ik",
+"Dialog_Button" : "false",
+"Dialog_Url" : "",
 "LayoutMessage" : "Data 1.67.3
 *new improvement
 -View Hand ✋no hs *head normal
