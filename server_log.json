@@ -2,11 +2,11 @@
 "UpdateVersion" : "2.3",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-"Dialog_Info" : "false",
-"Dialog_Message" : "N/A",
+"Dialog_Info" : "true",
+"Dialog_Message" : "FF TOOLS support FF Support 1.68.2",
 "Dialog_NameButton" : "ok",
-"Dialog_Button" : "false",
-"Dialog_Url" : "",
+"Dialog_Button" : "true",
+"Dialog_Url" : "https://youtu.be/Vk21Bx0_I30",
 "LayoutMessage" : "Support 1.68.2
 View hand = View hand
 View head = Semi Hs"
