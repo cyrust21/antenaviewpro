@@ -2,8 +2,9 @@
 "UpdateVersion" : "2.3",
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
-"Dialog_Info" : "false",
-"Dialog_Message" : "",
+"Dialog_Info" : "true",
+"Dialog_Message" : "MAINTENANCE ON PROCESS UPDATE
+Please wait",
 "Dialog_NameButton" : "ok",
 "Dialog_Button" : "false",
 "Dialog_Url" : "",
