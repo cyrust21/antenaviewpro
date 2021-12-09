@@ -3,11 +3,12 @@
 "UpdateMessage" : "New update Realese on PlayStore",
 "UpdateUrl" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 "Dialog_Info" : "true",
-"Dialog_Message" : "After FF data update Please trun off and turn on again View Laser Full Supply",
+"Dialog_Message" : "After FF data update Please trun off and turn on again View Laser Full Supply + View Head removed change Semi Hs only",
 "Dialog_NameButton" : "ok",
 "Dialog_Button" : "false",
 "Dialog_Url" : "",
 "LayoutMessage" : "Support 1.68.5
-- remove snapshot
-- view head Semi HS"
+Notice
+Please wait for the FF Tool Application maybe the next 7 days Update please be patient and give 5 stars in playstore.
+thank you"
 }
