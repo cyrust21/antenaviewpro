@@ -8,8 +8,8 @@
 "Dialog_Button" : "ok",
 "Dialog_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
 "Dialog_Action" : "false",
-"Layout_Message" : "*Don't use your Main Account because risk ban account, use guest account only. This tools for Just For Fun and Easy Look Enemy ",
-
+"Layout_Message" : "*Support Android 11,",
+"TextView" : "View Hand",
 "Tutorial" : "true",
 "Tutorial_Url" : "https://google.com/"
 }
