@@ -10,6 +10,7 @@
 "Dialog_Action" : "false",
 "Layout_Message" : "*Support Android 11,",
 "TextView" : "View Hand*",
+"Data" : "68.5"
 "Tutorial" : "true",
 "Tutorial_Url" : "https://google.com/"
 }
