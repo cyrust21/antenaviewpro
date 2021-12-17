@@ -4,13 +4,13 @@
 "Update_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 
 "Dialog_Info" : "true",
-"Dialog_Message" : "Laser Full Supply Updated please trun on/off this work for ff&ffmax 68.7",
+"Dialog_Message" : "MAINTENANCE",
 "Dialog_Button" : "ok",
 "Dialog_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
 "Dialog_Action" : "false",
 "Layout_Message" : "If you find error in app please delete data app ff tools pro",
 "TextView" : "View Head*",
-"Data" : "68.7",
+"Data" : " MAINTENANCE",
 "Tutorial" : "false",
 "Tutorial_Url" : "https://google.com/"
 }
