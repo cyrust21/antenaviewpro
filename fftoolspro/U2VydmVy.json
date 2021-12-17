@@ -4,13 +4,13 @@
 "Update_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 
 "Dialog_Info" : "true",
-"Dialog_Message" : "MAINTENANCE",
+"Dialog_Message" : "Re-Apply Laser Full Supply for Fixed stuck loading",
 "Dialog_Button" : "ok",
 "Dialog_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
 "Dialog_Action" : "false",
 "Layout_Message" : "If you find error in app please delete data app ff tools pro",
 "TextView" : "View Head*",
-"Data" : " MAINTENANCE",
+"Data" : "68.8",
 "Tutorial" : "false",
 "Tutorial_Url" : "https://google.com/"
 }
