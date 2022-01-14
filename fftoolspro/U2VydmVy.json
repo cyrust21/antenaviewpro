@@ -7,7 +7,7 @@
 "Dialog_Message" : "Version 68.12 Re-Apply ••Laser Full Supply and ••Semi HS",
 "Dialog_Button" : "ok",
 "Dialog_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.ffsensibooster",
-"Dialog_Action" : "false",
+"Dialog_Action" : "true",
 "Layout_Message" : "For FF Tools users, sorry, 2021 we will delete this application from the Playstore.",
 "TextView" : "View Head only no HS",
 "Data" : "68.12",
