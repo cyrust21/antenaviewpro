@@ -5,9 +5,9 @@
 
 "Dialog_Info" : "true",
 "Dialog_Message" : "Re-Apply Laser Full Supply it's work version ff ffmax 69.5",
-"Dialog_Button" : "tutorial",
-"Dialog_Url" : "https://youtu.be/jZ60y9ztQL0",
-"Dialog_Action" : "true",
+"Dialog_Button" : "ok",
+"Dialog_Url" : "",
+"Dialog_Action" : "false",
 "Layout_Message" : "Don't use your Main Account because risk ban account, use guest account only.",
 "TextView" : "View Head only no HS",
 "Data" : "69.5",
