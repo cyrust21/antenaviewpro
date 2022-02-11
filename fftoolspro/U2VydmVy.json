@@ -5,9 +5,9 @@
 
 "Dialog_Info" : "true",
 "Dialog_Message" : "Re-Apply Laser Full Supply it's work version ff ffmax 70.0",
-"Dialog_Button" : "tutorial",
-"Dialog_Url" : "https://youtu.be/jZ60y9ztQL0",
-"Dialog_Action" : "true",
+"Dialog_Button" : "ok",
+"Dialog_Url" : "",
+"Dialog_Action" : "false",
 "Layout_Message" : "Work for FF&FFMAX version 1.70.0 & 2.70.0 View Tutorial",
 "TextView" : "View Head only no HS",
 "Data" : "70.0",
