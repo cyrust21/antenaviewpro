@@ -4,13 +4,14 @@
 "Update_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
 
 "Dialog_Info" : "true",
-"Dialog_Message" : "Re-Apply Laser Full Supply it's work version ff ffmax 70.0",
+"Dialog_Message" : "Re-Apply Laser Full Supply it's work version ff ffmax 70.1
+Data update 16 February",
 "Dialog_Button" : "ok",
 "Dialog_Url" : "",
 "Dialog_Action" : "false",
-"Layout_Message" : "Work for FF&FFMAX version 1.70.0 & 2.70.0 View Tutorial",
+"Layout_Message" : "Work for FF&FFMAX version 1.70.1 & 2.70.0l1 View Tutorial",
 "TextView" : "View Head only no HS",
-"Data" : "70.0",
+"Data" : "70.1",
 "Tutorial" : "true",
 "Tutorial_Url" : "https://youtu.be/jZ60y9ztQL0"
 }
