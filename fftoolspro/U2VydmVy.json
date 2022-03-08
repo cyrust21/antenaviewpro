@@ -4,14 +4,14 @@
 "Update_Url" : "www.cyrust.app",
 
 "Dialog_Info" : "false",
-"Dialog_Message" : "Re-Apply Laser Full Supply it's work version ff ffmax 70.2
-Data update 3 March",
+"Dialog_Message" : "Re-Apply Laser Full Supply it's work version ff ffmax 70.4
+Data update 8 March",
 "Dialog_Button" : "ok",
 "Dialog_Url" : "",
 "Dialog_Action" : "false",
-"Layout_Message" : "Work for FF&FFMAX version 1.70.3 & 2.71.3 View Tutorial *more info: www.cyrust.app",
+"Layout_Message" : "Work for FF&FFMAX version 1.70.4 & 2.71.4 View Tutorial *more info: www.cyrust.app",
 "TextView" : "View Head only no HS",
-"Data" : "70.3",
+"Data" : "70.4",
 "Tutorial" : "true",
 "Tutorial_Url" : "https://www.cyrust.app/"
 }
