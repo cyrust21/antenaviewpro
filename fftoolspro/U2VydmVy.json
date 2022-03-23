@@ -3,15 +3,15 @@
 "Update_Message" : "New update Realese on PlayStore",
 "Update_Url" : "www.cyrust.app",
 
-"Dialog_Info" : "false",
-"Dialog_Message" : "Re-Apply Laser Full Supply it's work version ff ffmax 70.4
-Data update 8 March",
+"Dialog_Info" : "true",
+"Dialog_Message" : "Re-Apply Laser Full Supply it's work version ff ffmax 80.2
+Data update 23 March",
 "Dialog_Button" : "ok",
 "Dialog_Url" : "",
 "Dialog_Action" : "false",
-"Layout_Message" : "Work for FF&FFMAX version 1.70.4 & 2.71.4 View Tutorial *more info: www.cyrust.app",
-"TextView" : "View Head only no HS",
-"Data" : "70.4",
+"Layout_Message" : "Work for FF&FFMAX version 1.80.2 & 2.81.2 View Tutorial *more info: www.cyrust.app",
+"TextView" : "View Head only no HS -RISK BAN-",
+"Data" : "80.2",
 "Tutorial" : "true",
 "Tutorial_Url" : "https://www.cyrust.app/"
 }
