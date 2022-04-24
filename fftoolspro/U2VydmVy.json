@@ -5,13 +5,13 @@
 
 "Dialog_Info" : "true",
 "Dialog_Message" : "Re-Apply Laser Full Supply it's work version ff ffmax 2.81.6
-Data last update 18 April",
+Data last update 24 April",
 "Dialog_Button" : "ok",
 "Dialog_Url" : "",
 "Dialog_Action" : "false",
-"Layout_Message" : "Work for FF&FFMAX version 1.80.6 & 2.81.6 View Tutorial *more info: www.cyrust.app",
+"Layout_Message" : "Work for FF&FFMAX version 1.80.7 & 2.81.7 View Tutorial *more info: www.cyrust.app",
 "TextView" : "View Head only no HS -RISK BAN-",
-"Data" : "80.6/2.81.6",
+"Data" : "80.7/2.81.7",
 "Tutorial" : "true",
 "Tutorial_Url" : "https://www.cyrust.app/"
 }
