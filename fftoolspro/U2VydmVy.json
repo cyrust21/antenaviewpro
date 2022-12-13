@@ -1,9 +1,9 @@
 {
-"Update_Version" : "2.4",
+"Update_Version" : "2.5",
 "Update_Message" : "Hello user! you are using old version of FF TOOLS PRO, you need to update to the latest version in order to experience a total multifunctions.",
 "Update_Url" : "www.cyrust.app",
 
-"Dialog_Info" : "true",
+"Dialog_Info" : "false",
 "Dialog_Message" : "Sigma Battle Royale Tools Semi HS & Esp",
 "Dialog_Button" : "download",
 "Dialog_Url" : "https://www.cyrust.app/2022/11/smtools.html?m=1",
