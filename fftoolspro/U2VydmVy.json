@@ -1,14 +1,14 @@
 {
-"Update_Version" : "2.4",
+"Update_Version" : "2.5",
 "Update_Message" : "Hello user! you are using old version of FF TOOLS PRO, you need to update to the latest version in order to experience a total multifunctions.",
-"Update_Url" : "https://www.cyrust.app/?m=1",
+"Update_Url" : "https://www.cyrust.app/2020/12/blog-post.html?m=1#more",
 
 "Dialog_Info" : "true",
 "Dialog_Message" : "Join Whatsapps Group for update",
 "Dialog_Button" : "Join",
 "Dialog_Url" : "https://chat.whatsapp.com/FXNLvXecQTrIqJ2ox8ov7Z",
 "Dialog_Action" : "true",
-"Layout_Message" : "Work for FF&FFMAX version 1.80.7 & 2.81.7 View Tutorial *more info: www.cyrust.app",
+"Layout_Message" : "Work for FF&FFMAX version 1.94.10 & 2.94.10 View Tutorial *more info: www.cyrust.app",
 "TextView" : "View Head only no HS -RISK BAN-",
 "Data" : "94.10",
 "Tutorial" : "false",
