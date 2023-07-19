@@ -2,7 +2,7 @@
 <body>
 
 <?php
-echo "Today is " . date("dmY") . "<br>";
+echo "Today is " . date("d/m/Y") . "<br>";
 ?>
 
 </body>
