@@ -13,12 +13,8 @@
 "Data" : "",
 "Tutorial" : "false",
 "Tutorial_Url" : "https://www.cyrust.app/",
-  "swicth1" : "NPC Name 64bit
-OBB 2019116797",
-  "switch2" : "NPC Name 32bit
-OBB 2019116795",
-  "switch3" : "Hologram WhiteBody
-OBB 2019116795",
-  "switch4" : "Hologram-MagicBullet-Drone
-OBB 2019116795"
+  "swicth1" : "NPC Name 64bit OBB 2019116797",
+  "switch2" : "NPC Name 32bit OBB 2019116795",
+  "switch3" : "Hologram WhiteBody OBB 2019116795",
+  "switch4" : "Hologram-MagicBullet-Drone OBB 2019116795"
 }
